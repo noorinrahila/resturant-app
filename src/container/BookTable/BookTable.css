@@ -1,0 +1,10 @@
+.app__bookTable{
+    background-color: var(--color-black);
+
+}
+.app__bookTable h2{
+    align-items: center;
+    color:whitesmoke;
+    font-family: var(--font-base);
+padding:2rem 0;
+}
